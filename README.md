@@ -10,7 +10,8 @@ Things I have been doing until now (in no specific order):
 - Sound-assistant at a theater
 - Housekeeping
 - Student of literature and philosophy
-
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{SirJohn42Walker}/count.svg)
 <!--
 **SirJohn42Walker/SirJohn42Walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
