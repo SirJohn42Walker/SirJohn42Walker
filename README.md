@@ -1,6 +1,8 @@
 # Welcome to my github-page!
 
-### Hi there 👋
+<img src="https://imageio.forbes.com/specials-images/imageserve/5e226115735f8c00079a1fab/Attack-of-the-Clones/960x0.jpg?format=jpg&width=960" />
+
+
 
 <!--
 **SirJohn42Walker/SirJohn42Walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
