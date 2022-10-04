@@ -1,6 +1,6 @@
 # Welcome to my github-page!
 
-<img src="https://imageio.forbes.com/specials-images/imageserve/5e226115735f8c00079a1fab/Attack-of-the-Clones/960x0.jpg?format=jpg&width=960" />
+<img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" />
 
 My name is Sascha Rehberg. I have been working in many different areas over the years, but all that has led me here. Now I am learning how to use github and other coding resources.
 
