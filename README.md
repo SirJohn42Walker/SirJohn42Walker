@@ -9,6 +9,7 @@ Things I have been doing until now (in no specific order):
 - Delivery driver
 - Sound-assistant at a theater
 - Housekeeping
+- Student of many things
 
 <!--
 **SirJohn42Walker/SirJohn42Walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
