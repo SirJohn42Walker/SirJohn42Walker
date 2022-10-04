@@ -6,10 +6,10 @@ My name is Sascha Rehberg. I have been working in many different areas over the 
 
 Things I have been doing until now (in no specific order):
 - Waiter
-- Delivery driver
+- Delivery driver (can't recommend)
 - Sound-assistant at a theater
 - Housekeeping
-- Student of many things
+- Student of literature and philosophy
 
 <!--
 **SirJohn42Walker/SirJohn42Walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
